@@ -302,9 +302,8 @@ def display_path(terrim,path):
 
 def main():
     """
-    The code for loading the image is the one which is given by
-    Professor Butler as a sample.
-    We use the terr array of pixels to continue with our process
+    
+    We load the image and use the terr array of pixels to continue with our process
 
     We assume that pixel 9 cannot be reached since it is given as out of bounds
     Thus while entering the values for source and destination, we would need
