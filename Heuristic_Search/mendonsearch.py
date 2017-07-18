@@ -1,7 +1,7 @@
 """
 mendonsearch.py
 
-author: Anil Poriya arp6763
+author: Anil Poriya
 
 
 description: mendonsearch takes in an image and loads the pixel values of that image in its grid.
