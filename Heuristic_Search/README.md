@@ -1,6 +1,6 @@
 Mendon Ponds Park
 
-terrain.png is a sort of map of Mendon Ponds Park where each color(pixel value) represents a different type of terrain.
+terrain2.png is a sort of map of Mendon Ponds Park where each color(pixel value) represents a different type of terrain.
 
 	Terrain_type		Color_on_map
 
